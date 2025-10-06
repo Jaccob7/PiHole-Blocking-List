@@ -1,0 +1,43 @@
+{
+  "PrintToCenterHtml": false,
+  "WelcomeMessage": {
+    "MessageType": 0,
+    "Message": "{PURPLE}Welcome to {GREEN}Lone Tree | Surf Utopia | 24/7{DEFAULT}!"
+  },
+  "Commands": [
+    {
+      "Command": "!spec",
+      "Response": "{PURPLE}[Server Command]{DEFAULT}: {YELLOW}!spec {DEFAULT} - Type !spec to view available spectator modes."
+    }
+  ],
+  "Ads": [
+    {
+      "Interval": 600,
+      "Messages": [
+        {
+          "Chat": "{PURPLE}[Server Time]{DEFAULT}: {GREEN}{TIME}"
+        }
+      ]
+    },
+    {
+      "Interval": 300,
+      "Messages": [
+        {
+          "Chat": "{PURPLE}[Discord]{DEFAULT}: {LIGHTBLUE}N/A"
+        }
+      ]
+    },
+    {
+      "Interval": 900,
+      "Messages": [
+        {
+          "Chat": "{RED}[Server Info]{DEFAULT} Restarts are every {RED}8 Hours{DEFAULT} for maintenance"
+        }
+      ]
+    }
+  ],
+  "Panel": [],
+  "DefaultLang": "US",
+  "LanguageMessages": {},
+  "MapsName": {}
+}
