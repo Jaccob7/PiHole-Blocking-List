@@ -1,0 +1,14 @@
+# ===== ROKU Ad & Tracking Domains =====
+ads.roku.com
+p.ads.roku.com
+static.ads.roku.com
+trace.sr.roku.com
+cooper.logs.roku.com
+cloudservices.roku.com
+appload.ingest.sr.roku.com
+
+# ===== TUBI Ad & Tracking Domains =====
+ads.tubitv.com
+analytics.tubitv.com
+tubitv.112.2o7.net
+api.survata.com
